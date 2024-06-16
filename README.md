@@ -8,7 +8,7 @@
 
 #### 👉Delivers a concise description of the weather conditions (e.g., sunny, cloudy, rainy) along with visually appealing icons for quick and easy recognition.
 
-#### 👉Features a clean, modern design with responsive layout, with easy navigation and fast loading times.
+#### 👉Features a clean, modern design with responsive layout, with easy navigation and fast loading times and error handling as well.
 
  ## View
  ### First View
